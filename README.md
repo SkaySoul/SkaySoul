@@ -1,5 +1,7 @@
 ### Hi there 👋
+### My statistics : <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkaySoul&show_icons=true&title_color=e00021&bg_color=DEG,6699ff,ffffff)
 <!--
 **SkaySoul/SkaySoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
